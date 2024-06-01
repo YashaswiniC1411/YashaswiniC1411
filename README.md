@@ -1,3 +1,5 @@
+<img align="center" width="2000" src="https://cdn.ttgtmedia.com/rms/onlineimages/code_g1297696209.jpg"> </img>
+
 <h1 align=center> Hello!👋, I'm Yashaswini C <br> Welcome to my Github Profile! </h1>
 
 <div align=center>

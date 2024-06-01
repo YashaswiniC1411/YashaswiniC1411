@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
     </a>
   <!-- Linkedin Link -->
-    <a href="linkedin.com/in/yashaswini-c-700110250" target="_blank">
+    <a href="https://linkedin.com/in/yashaswini-c-700110250" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
 

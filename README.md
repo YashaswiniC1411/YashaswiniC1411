@@ -1,18 +1,18 @@
 <h1 align=center> Hello!👋, I'm Yashaswini C <br> Welcome to my Github Profile! </h1>
 
 <div align=center>
-  
+
   <h2> 🌐 Join my network </h2>
     <!-- Github link -->
     <a href="https://github.com/YashaswiniC1411" target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
-    <a href="linkedin.com/in/yashaswini-c-700110250" target="_blank">
+    <a href="https://linkedin.com/in/yashaswini-c-700110250" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

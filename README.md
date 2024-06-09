@@ -15,7 +15,7 @@
     </a>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,cpp,pycharm,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,cpp,pycharm,vscode,arduino,matlab,mysql)](https://skillicons.dev)
 
 # 📊 GitHub Statistics
 <table>

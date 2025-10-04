@@ -6,15 +6,7 @@
   Welcome to my GitHub Profile!
 </h1>
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code.+Debug.+Repeat.+🔥;Turning+Ideas+into+Reality+✨;Learning+Never+Stops+📚;Sharing+Knowledge+is+Growth+🌍)](https://git.io/typing-svg)
-
-</div>
-
-
-
-
 
 <div align=center>
 
@@ -57,7 +49,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 # 📊 GitHub Statistics
 <table>
